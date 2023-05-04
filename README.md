@@ -2,7 +2,8 @@
 
 ## Description
 
-Portfolio for the University of Cincinnati Honors Program. 
+Portfolio for the University of Cincinnati Honors Program.  
+Home page: [hildebkg.github.io/home.html](https://hildebkg.github.io/home.html)
 
 ## Acknowledgments
 
